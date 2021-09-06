@@ -1,4 +1,4 @@
-<h1># Linear-Regression-Multiple-Variables</h1>
+<h1>Linear-Regression-Multiple-Variables</h1>
 Machine Learning With Python:<br>
 Linear Regression Multiple Variables Sample problem of predicting home price in monroe, new jersey (USA) Below is the table containing home prices in monroe twp, NJ. Here price depends on area (square feet), bed rooms and age of the home (in years). 
 <br>Given these prices we have to predict prices of new homes based on area, bed rooms and age.   

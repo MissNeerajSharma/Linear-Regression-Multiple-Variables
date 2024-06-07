@@ -1,6 +1,37 @@
 <h1>Linear-Regression-Multiple-Variables</h1>
-Machine Learning With Python:<br>
-Linear Regression Multiple Variables Sample problem of predicting home price in monroe, new jersey (USA) Below is the table containing home prices in monroe twp, NJ. Here price depends on area (square feet), bed rooms and age of the home (in years). 
-<br>Given these prices we have to predict prices of new homes based on area, bed rooms and age.   
-<br>
-Given these home prices find out price of a home that has,  3000 sqr ft area, 3 bedrooms, 40 year old  2500 sqr ft area, 4 bedrooms, 5 year old
+# Linear Regression Sample: Predicting Home Prices in Monroe Township, NJ
+
+## Introduction
+This repository contains a sample project on linear regression using multiple variables to predict home prices in Monroe Township, New Jersey, USA. The project focuses on predicting home prices based on the area (square feet), number of bedrooms, and age of the home (in years).
+
+## Dataset
+The dataset used in this project consists of a table containing home prices in Monroe Township, NJ. Each row in the dataset represents a home and contains the following features:
+- Area (square feet)
+- Number of bedrooms
+- Age of the home (in years)
+- Price (target variable)
+
+## Problem Statement
+The goal of this project is to build a linear regression model that can accurately predict home prices based on the given features. This model can be helpful for both home buyers and sellers in Monroe Township to estimate the fair market value of a home based on its characteristics.
+
+## Repository Structure
+- `data/`: Contains the dataset used in the project.
+- `src/`: Contains the source code for data preprocessing, model training, and evaluation.
+- `models/`: Stores trained models for future use or deployment.
+- `notebooks/`: Jupyter notebooks for exploratory data analysis, model development, and evaluation.
+- `README.md`: This file, providing an overview of the project and its contents.
+
+## Dependencies
+The following libraries are required to run the code in this repository:
+- Python (>= 3.6)
+- NumPy
+- pandas
+- scikit-learn
+- matplotlib
+- seaborn
+
+## Usage
+1. Clone this repository to your local machine:
+2. ## Acknowledgments
+- The dataset used in this project is sourced from https://www.kaggle.com/code/data13/predicting-house-prices-with-linear-regression
+#Thanks NeerahSharma

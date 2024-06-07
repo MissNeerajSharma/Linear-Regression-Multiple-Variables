@@ -2,7 +2,7 @@
 # Linear Regression Sample: Predicting Home Prices in Monroe Township, NJ
 
 ## Introduction
-This repository contains a sample project on linear regression using multiple variables to predict home prices in Monroe Township, New Jersey, USA. The project focuses on predicting home prices based on the area (square feet), number of bedrooms, and age of the home (in years).
+This repository contains a sample project on linear regression using multiple variables to predict home prices in Monroe Township, New Jersey, USA. The project focuses on predicting home prices based on the area (square feet), number of bedrooms, and age of the home (in years).The dataset used in this project is sourced from https://www.kaggle.com/code/data13/predicting-house-prices-with-linear-regression
 
 ## Dataset
 The dataset used in this project consists of a table containing home prices in Monroe Township, NJ. Each row in the dataset represents a home and contains the following features:
@@ -32,6 +32,4 @@ The following libraries are required to run the code in this repository:
 
 ## Usage
 1. Clone this repository to your local machine:
-2. ## Acknowledgments
-- The dataset used in this project is sourced from https://www.kaggle.com/code/data13/predicting-house-prices-with-linear-regression
-#Thanks NeerahSharma
+
